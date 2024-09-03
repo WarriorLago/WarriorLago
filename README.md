@@ -1,14 +1,12 @@
-# 马菁含的个人项目与工作记录
-
 ## 个人简介
 
-大家好，我是马菁含，目前就读于首都经济贸易大学计算机科学与技术专业，将于2025年毕业。我热衷于软件开发，尤其是后端开发与数据处理，拥有丰富的项目经验和扎实的技术背景。
+Hi，我是Warrior Ma，目前就读于首都经济贸易大学计算机科学与技术专业，将于2025年毕业。我热衷于软件开发，尤其是后端开发与数据处理，拥有丰富的项目经验和扎实的技术背景。
 
-- **邮箱**: [potatofish99@163.com   "potatofish99@163.com" 翻译成中文是：“土豆鱼99@163.com”。](mailto:potatofish99@163.com方式:potatofish99@163。com)
+- **邮箱**: potatofish99@163.com
 
 ## 技能概览
 
-- **编程语言**: 熟练使用C#、Python，熟悉C/C++、Java、SQL- **编程语言**: 熟练使用C#、Python，熟悉C/C  、Java、SQL
+- **编程语言**: 熟练使用C#、Python，熟悉C/C++、Java、SQL- 
 - **框架与技术**: .NET Framework、.NET Core、EF Core、Redis、Autofac、SignalR、Docker
 - **数据库**: 熟练使用SQL Server、SQLite，了解InfluxDB，具备SQL优化和分库分表经验
 - **其他**: 熟悉Linux操作系统，掌握微服务架构，了解消息队列和缓存技术
