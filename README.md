@@ -22,3 +22,17 @@ Windows 开发：WinForms / WPF / .NET 桌面程序、安装与分发、托盘�
 
 ---
 
+## 代表项目
+
+### Cursor Account Cockpit
+
+本机 Cursor 多账号驾驶舱：无感切号、额度总览、官方账单导出。技术栈 Tauri + React + TypeScript + Rust。
+
+<p>
+  <a href="https://github.com/WarriorLago/CursorAccountCockpit"><img alt="release" src="https://img.shields.io/github/v/release/WarriorLago/CursorAccountCockpit?label=release&color=2ea44f"></a>
+  <a href="https://github.com/WarriorLago/CursorAccountCockpit/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/WarriorLago/CursorAccountCockpit/total?label=downloads&color=0e8a16"></a>
+  <a href="https://warriorlago.github.io/CursorAccountCockpit/"><img alt="website" src="https://img.shields.io/badge/website-GitHub%20Pages-blue"></a>
+</p>
+
+- 项目仓库：https://github.com/WarriorLago/CursorAccountCockpit
+- 介绍与下载：https://warriorlago.github.io/CursorAccountCockpit/
