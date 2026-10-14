@@ -36,3 +36,5 @@ Windows 开发：WinForms / WPF / .NET 桌面程序、安装与分发、托盘�
 
 - 项目仓库：https://github.com/WarriorLago/CursorAccountCockpit
 - 介绍与下载：https://warriorlago.github.io/CursorAccountCockpit/
+- 最新 Windows 版本：**0.2.53**（GitHub HTTPS OTA 更新）
+- [Windows 安装包](https://github.com/WarriorLago/CursorAccountCockpit/releases/download/v0.2.53/Cursor-Account-Cockpit-0.2.53-x64-setup.exe) · [便携版](https://github.com/WarriorLago/CursorAccountCockpit/releases/download/v0.2.53/Cursor-Account-Cockpit-0.2.53-portable.exe)
